@@ -1,0 +1,13 @@
+
+
+CARA INSTALLASI
+. Buat database MySQL atau PHPMyAdmin dengan nama "toko_oktias".
+2. Import database "toko_oktias.sql" ke dalam database yang telah Anda buat.
+3. Buka file "database.php" di folder "application/config".
+4. Sesuaikan nama database, username dan password database yang Anda miliki.
+
+USERNAME DAN PASSWORD:
+Username: oktias@example.com Password: 12345 
+
+HALAMAN LOGIN
+http://localhost/projectmu/login
