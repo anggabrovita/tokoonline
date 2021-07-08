@@ -20,3 +20,6 @@
 Itu saja! Aplikasi bisa di akses di ```http://localhost/tokorindu```.
 
 Halaman login admin bisa di akses di  ```http://localhost/tokorindu/auth```.
+
+email : admin@example.com
+password : admin
