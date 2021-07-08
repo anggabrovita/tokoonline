@@ -17,6 +17,6 @@
 
 5. Buka file "database.php" di folder "application/config". Sesuaikan nama database, username dan password database yang Anda buat.
 
-Itu saja! Aplikasi bisa di akses di ``http://localhost/tokorindu``.
+Itu saja! Aplikasi bisa di akses di ```http://localhost/tokorindu```.
 
-Halaman login admin bisa di akses di  ``http://localhost/tokorindu/auth``.
+Halaman login admin bisa di akses di  ```http://localhost/tokorindu/auth```.
