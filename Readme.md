@@ -15,7 +15,7 @@
 
 4. Import database ``toko_oktias.sql`` ke dalam database yang telah Anda buat.
 
-5. Buka file "database.php" di folder "application/config". Sesuaikan nama database, username dan password database yang Anda buat.
+5. Buka file ``database.php`` di folder ``application/config``. Sesuaikan nama database, username dan password database yang Anda buat.
 
 Itu saja! Aplikasi bisa di akses di ```http://localhost/tokorindu```.
 
